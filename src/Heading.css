@@ -1,0 +1,21 @@
+.vibrate .rate{
+    background-color: rgba(20, 28, 33, 0.473);
+    border: 0.8px solid rgba(159, 78, 78, 0.496);
+    outline: none;
+    border-radius: 30px;
+    padding: 12px;  
+    box-shadow: 0 0 20px #24292dd4;
+}
+button .rate{
+   color:  #eb5a359c;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.vibrate :hover{
+    background-color:  #a15c4a17  ;
+    border-radius: 30px;
+    border:0.8px solid#ca563a;
+    outline: none;   
+    color: rgb(237, 225, 203); 
+}
